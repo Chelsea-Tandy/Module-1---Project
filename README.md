@@ -1,6 +1,5 @@
 # Module-1---Project
 ![Screenshot 2025-04-10 105926](https://github.com/user-attachments/assets/05d5800b-d099-4338-8716-7afd52af8cbe)
-Link to live_demo - 
 
 # Short discription
 This website was built by Chelsea, Nazra and Elias for Module 1 Core Project. It is a HR System that is user-friendly for HR staff. It allows HR staff to add and remove employees from the employee list. It also has a calendar that shows who is in attendance, who is not there and who is on leave. It also allows payrolls to be calculated automatically and show digitally.its main purpose is for HR staff to have easy access to all employee detail and everything else. 
